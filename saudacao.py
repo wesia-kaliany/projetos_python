@@ -1,0 +1,1 @@
+print("Olá, tudo bem? " + input("Insira seu nome: ") + ", Seja muito bem vindo(a)!")
