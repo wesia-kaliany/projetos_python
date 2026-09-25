@@ -1,0 +1,1 @@
+print(" Com apenas " + input("Digite um ingrediente: ") + ", um(a) " + input(" Digite um utensilio: ") + "e um toque " + input("Digite um adjetivo: ") + ", voce criou a receita mais inesperada do mundo! ")
